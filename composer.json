@@ -1,0 +1,9 @@
+{
+    "name": "artem/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Artem\\HexletPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
