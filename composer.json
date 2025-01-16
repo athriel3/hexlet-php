@@ -5,5 +5,7 @@
             "Artem\\HexletPhp\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.38"
+    }
 }
